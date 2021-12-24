@@ -7,3 +7,5 @@ import (
 func main() {
 	conf.New()
 }
+
+// look for lib
