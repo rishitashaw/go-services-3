@@ -10,7 +10,7 @@ import (
 var build = "Develop"
 
 func main() {
-	log.Println("starting service", build)
+	log.Println("starting service rishita shaw", build)
 	defer log.Println("stopping service")
 
 	shutdown := make(chan os.Signal, 1)
